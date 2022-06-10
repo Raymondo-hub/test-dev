@@ -1,0 +1,21 @@
+To connect remotely to a server, we use SSH connection (secure shell connection) 
+
+The diffult port for SSH is Port 22
+
+To connect remotely we need the following:
+
+1. IP address of the machine/server we want to connect to.
+2. A User
+3. Keypair
+4. Third party tool from which we will connect on (e.g Mobaxterm)
+
+
+Yum is a package manager in linux 
+A package manager is used to install packages
+
+yum in centos linux
+apt-get for ubuntu linux
+
+
+ list hidden files and directories we use the command # ls -a
+ To make a directory                                  # mkdir + directory  name
